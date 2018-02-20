@@ -1,0 +1,11 @@
+{
+  "name": "sharehire_chat-test",
+  "version": "0.0.0",
+  "description": "Sharehire_ChatTest",
+  "protocol": "auto",
+  "main": "server.js",
+  "author": {
+    "name": "Slawek"
+  },
+  "dependencies": {}
+}
